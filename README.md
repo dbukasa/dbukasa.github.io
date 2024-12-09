@@ -1,2 +1,2 @@
-# dbukasa.github.io
+# Drew Bukasa Digital Humanities Diary
 RQQ
