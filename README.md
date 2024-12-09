@@ -1,2 +1,2 @@
-# Drew Bukasa Digital Humanities Diary
+# Digital Humanities Diary
 RQQ
