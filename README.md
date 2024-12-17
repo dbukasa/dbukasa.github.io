@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Digital Humanities Diary</strong></h1>
-<h1 align="center">University of Pennsylvania</strong></h1>
+<h1 align="center">University of Pennsylvania</h1>
 <h1 align="center">Philadelphia, PA</h1>
 
 **Date:** December 16, 2024 📅  
